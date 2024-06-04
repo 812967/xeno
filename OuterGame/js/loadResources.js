@@ -65,52 +65,52 @@ let imageSources = {//Properties of imageSources match names of images
 	},
 	//inner game images
 	grass: {
-		sourceString: "../InnerGame/res/sprites/grass.png",
+		sourceString: "InnerGame/res/sprites/grass.png",
 	},
 	fog: {
-		sourceString: "../InnerGame/res/sprites/fog.png",
+		sourceString: "InnerGame/res/sprites/fog.png",
 	},
 	rocks2c: {
-		sourceString: "../InnerGame/res/sprites/rocks2c.png",
+		sourceString: "InnerGame/res/sprites/rocks2c.png",
 	},
 	tractor: {
-		sourceString: "../InnerGame/res/sprites/tractor.png",
+		sourceString: "InnerGame/res/sprites/tractor.png",
 	},
 	WATERTiles: {
-		sourceString: "../InnerGame/res/sprites/WATERTiles.png",
+		sourceString: "InnerGame/res/sprites/WATERTiles.png",
 	},
 	hpPU: {
-		sourceString: "../InnerGame/res/sprites/hpPU.png",
+		sourceString: "InnerGame/res/sprites/hpPU.png",
 	},
 	shieldPU: {
-		sourceString: "../InnerGame/res/sprites/shieldPU.png",
+		sourceString: "InnerGame/res/sprites/shieldPU.png",
 	},
 	moneyPU: {
-		sourceString: "../InnerGame/res/sprites/moneyPU.png",
+		sourceString: "InnerGame/res/sprites/moneyPU.png",
 	},
 	techPU: {
-		sourceString: "../InnerGame/res/sprites/techPU.png",
+		sourceString: "InnerGame/res/sprites/techPU.png",
 	},
 	arrowPU: {
-		sourceString: "../InnerGame/res/sprites/arrowPU.png",
+		sourceString: "InnerGame/res/sprites/arrowPU.png",
 	},
 	splash: {
-		sourceString:"../InnerGame/res/sprites/splash/youdied.jpg",
+		sourceString:"InnerGame/res/sprites/splash/youdied.jpg",
 	},
 	creature1: {
-		sourceString:"../InnerGame/res/sprites/creatures/FatBat.png"
+		sourceString:"InnerGame/res/sprites/creatures/FatBat.png"
 	},
 	creature2: {
-		sourceString:"../InnerGame/res/sprites/creatures/green.png"
+		sourceString:"InnerGame/res/sprites/creatures/green.png"
 	},
 	creature3: {
-		sourceString:"../InnerGame/res/sprites/creatures/chickenwithabelt.png"
+		sourceString:"InnerGame/res/sprites/creatures/chickenwithabelt.png"
 	},
 	creature4: {
-		sourceString:"../InnerGame/res/sprites/creatures/Ratwithahood.png"
+		sourceString:"InnerGame/res/sprites/creatures/Ratwithahood.png"
 	},
 	creature5: {
-		sourceString:"../InnerGame/res/sprites/creatures/AlienMage.png"
+		sourceString:"InnerGame/res/sprites/creatures/AlienMage.png"
 	},
 	// Panels
 	logohead: {
@@ -177,7 +177,7 @@ let imageSources = {//Properties of imageSources match names of images
 		}
 	},
 	minion: {
-		sourceString: "../InnerGame/res/sprites/minions/minion.png",
+		sourceString: "InnerGame/res/sprites/minions/minion.png",
 	}
 }
 
